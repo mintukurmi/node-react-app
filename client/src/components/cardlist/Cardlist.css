@@ -1,0 +1,34 @@
+.cardlist {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-gap: 20px;
+    padding: 15px 30px;
+}
+
+.text-center {
+    text-align: center;
+    margin: 50px auto;
+}
+.msg {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+@media only screen and (max-width: 1100px) {
+    .cardlist {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-gap: 20px;
+        padding: 15px 30px;
+    }
+}
+
+@media only screen and (max-width: 710px) {
+    .cardlist {
+        display: grid;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        grid-gap: 20px;
+        padding: 15px 30px;
+    }
+}

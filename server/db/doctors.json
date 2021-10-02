@@ -1,0 +1,95 @@
+[{
+    "id": "1",
+    "name":"Dr. S. Raja Sabapathy",
+    "experience": "20",
+    "degree": "MD",
+    "specialization": "Dermatologist",
+    "avatar": "./img/doctor.jpg",
+    "fee": 500,
+    "city": "Jorhat",
+    "availablity":{
+        "isAvailable": "true",
+        "date": "12/10/21",
+        "time": "2:03 pm"
+    }
+}, 
+{
+    "id": "2",
+    "name":"Dr. S. Raja Sabapathy",
+    "experience": "20",
+    "degree": "MD MNAMS",
+    "specialization": "Kidney Transplant Surgery",
+    "avatar": "./img/doctor.jpg",
+    "fee": 500,
+    "city": "Jorhat",
+    "availablity":{
+        "isAvailable": "true",
+        "date": "12/10/21",
+        "time": "2:03 pm"
+    }
+
+},
+{
+    "id": "3",
+    "name":"Dr. S. Raja Sabapathy",
+    "experience": "20",
+    "degree": "MS(Gen), M.ch, DNB(Plastic Surgery), FRCS(Edin), Hon FRCS(Glas), FAMS,",
+    "specialization": "Plastic Surgery, HAnd & Microsurgery, Burns, Cancer Reconstruction and Diabetic Foot Care",
+    "avatar": "./img/doctor.jpg",
+    "fee": 500,
+    "city": "Tinsukia",
+    "availablity":{
+        "isAvailable": "false",
+        "date": "12/10/21",
+        "time": "2:03 pm"
+    }
+
+},
+{
+    "id": "4",
+    "name":"Dr. S. Raja Sabapathy",
+    "experience": "20",
+    "degree": "MD",
+    "specialization": "Dermatologist",
+    "avatar": "./img/doctor.jpg",
+    "fee": 500,
+    "city": "Guwahati",
+    "availablity":{
+        "isAvailable": "true",
+        "date": "12/10/21",
+        "time": "2:03 pm"
+    }
+
+},
+{
+    "id": "5",
+    "name":"Dr. S. Raja Sabapathy",
+    "experience": "20",
+    "degree": "MS, MNAMS",
+    "specialization": "Kidney Transplant Surgery",
+    "avatar": "./img/doctor.jpg",
+    "fee": 500,
+    "city": "Guwahati",
+    "availablity":{
+        "isAvailable": "false",
+        "date": "12/10/21",
+        "time": "2:03 pm"
+    }
+
+},
+{
+    "id": "6",
+    "name":"Dr. S. Raja Sabapathy",
+    "experience": "20",
+    "degree": "MS, MNAMS",
+    "specialization": "Kidney Transplant Surgery",
+    "avatar": "./img/doctor.jpg",
+    "fee": 500,
+    "city": "Dibrugarh",
+    "availablity":{
+        "isAvailable": "true",
+        "date": "12/10/21",
+        "time": "2:03 pm"
+    }
+
+}]

@@ -1,0 +1,17 @@
+[{  "id": 1,
+    "city": "Guwahati",
+    "state": "Assam"
+},
+{   "id": 2,
+    "city": "Jorhat",
+    "state":"Assam"
+},
+{   "id": 3,
+    "city": "Dibrugarh",
+    "state":"Assam"
+},
+{   "id": 4,
+    "city": "Tinsukia",
+    "state":"Assam"
+}
+]
